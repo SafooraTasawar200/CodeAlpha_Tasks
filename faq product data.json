@@ -1,0 +1,122 @@
+[
+    {
+        "question": "How can I track my order?",
+        "answer": "You can track your order by logging into your account and clicking on the 'Track Order' link under your recent purchases."
+    },
+    {
+        "question": "What is your return policy?",
+        "answer": "We accept returns within 14 days of delivery. The product must be unused and in its original packaging."
+    },
+    {
+        "question": "Do you offer free shipping?",
+        "answer": "Yes, we offer free standard shipping on all orders over $50."
+    },
+    {
+        "question": "Can I change my shipping address after placing an order?",
+        "answer": "Yes, you can change your shipping address within 2 hours of placing the order by contacting our support team."
+    },
+    {
+        "question": "Which payment methods do you accept?",
+        "answer": "We accept Visa, Mastercard, American Express, PayPal, and ShopSmart Gift Cards."
+    },
+    {
+        "question": "Do you sell refurbished products?",
+        "answer": "Yes, we sell certified refurbished electronics which go through a thorough quality check and include a 6\u2011month warranty."
+    },
+    {
+        "question": "Is there a warranty on your products?",
+        "answer": "Most products come with a 1\u2011year manufacturer warranty. Refurbished items include a 6\u2011month ShopSmart warranty."
+    },
+    {
+        "question": "Can I cancel my order?",
+        "answer": "Orders can be canceled within 2 hours of placement. After that, they may already be in processing."
+    },
+    {
+        "question": "How do I contact customer service?",
+        "answer": "You can contact us via the live chat on our website, call us at 1\u2011800\u2011SMART\u201199, or email support@shopsmart.com."
+    },
+    {
+        "question": "Do you offer student discounts?",
+        "answer": "Yes, students can get up to 10% off by verifying their student status through our partner platform UNiDAYS."
+    },
+    {
+        "question": "How can I apply for university admission?",
+        "answer": "You can apply online through the university portal by filling the application form and uploading your documents."
+    },
+    {
+        "question": "What are the eligibility criteria for undergraduate programs?",
+        "answer": "Applicants must have at least 60% marks in intermediate or equivalent."
+    },
+    {
+        "question": "Do you offer scholarships?",
+        "answer": "Yes, we offer merit\u2011based and need\u2011based scholarships for eligible students."
+    },
+    {
+        "question": "When do admissions open?",
+        "answer": "Admissions typically open in June for the Fall semester."
+    },
+    {
+        "question": "How do I submit my documents?",
+        "answer": "All documents must be uploaded on the admission portal in PDF format."
+    },
+    {
+        "question": "Is there an entrance test?",
+        "answer": "Yes, most programs require applicants to pass an entrance test."
+    },
+    {
+        "question": "Can I apply for multiple programs?",
+        "answer": "Yes, you can apply to multiple programs by selecting them during the application process."
+    },
+    {
+        "question": "What is the application fee?",
+        "answer": "The application fee is PKR 1500, payable online or at the bank."
+    },
+    {
+        "question": "How do I know if I got admitted?",
+        "answer": "Admission decisions are emailed and posted on the admission portal."
+    },
+    {
+        "question": "Can international students apply?",
+        "answer": "Yes, international students are welcome and must fulfill equivalent criteria."
+    },
+    {
+        "question": "How do I book a flight?",
+        "answer": "You can book a flight by visiting our website, selecting your route, and completing the payment."
+    },
+    {
+        "question": "What is your refund policy for flight bookings?",
+        "answer": "Refund policies vary by airline. Check specific terms during booking."
+    },
+    {
+        "question": "Can I change my travel dates?",
+        "answer": "Yes, changes are possible but may involve a fee based on airline policies."
+    },
+    {
+        "question": "Do you offer hotel bookings?",
+        "answer": "Yes, we offer discounted hotel packages with flight bookings."
+    },
+    {
+        "question": "Is travel insurance included?",
+        "answer": "Travel insurance is optional and can be added during checkout."
+    },
+    {
+        "question": "Can I get a group discount?",
+        "answer": "Yes, contact our support team for group travel offers and packages."
+    },
+    {
+        "question": "What documents do I need to travel internationally?",
+        "answer": "You need a valid passport, visa (if required), and COVID\u201119 vaccination certificate."
+    },
+    {
+        "question": "Do you offer visa assistance?",
+        "answer": "Yes, we help with visa applications and document preparation for selected countries."
+    },
+    {
+        "question": "What happens if my flight is canceled?",
+        "answer": "You\u2019ll receive a full refund or alternate flight depending on airline policy."
+    },
+    {
+        "question": "How can I contact your travel support?",
+        "answer": "Call our 24/7 helpline or email travel@flyeasy.com for assistance."
+    }
+]
